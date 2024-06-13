@@ -9,6 +9,12 @@ public class Example1 {
 		
 	}
 	
+	private void print() {
+		
+		int b = 10;
+		System.out.println(b);
+	}
+	
 	
 	
 
